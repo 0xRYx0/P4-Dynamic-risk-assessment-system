@@ -70,7 +70,7 @@ The fourth project of [ML DevOps Engineer Nanodegree](https://www.udacity.com/co
             ```bash
             > python ingestion.py
             ```
-         * Artifacts output: 
+         * Generated Artifacts: 
             ``` 
             data/ingesteddata/finaldata.csv 
             data/ingesteddata/ingestedfiles.txt
@@ -81,7 +81,7 @@ The fourth project of [ML DevOps Engineer Nanodegree](https://www.udacity.com/co
             ```bash
             > python training.py
             ```
-         * Artifacts output: 
+         * Generated Artifacts: 
             ``` 
             models/practicemodels/trainedmodel.pkl
             ```
@@ -91,7 +91,7 @@ The fourth project of [ML DevOps Engineer Nanodegree](https://www.udacity.com/co
             ```bash
             > python scoring.py
             ```
-         * Artifacts output: 
+         * Generated Artifacts: 
             ``` 
             models/practicemodels/latestscore.txt
             ```
@@ -101,7 +101,7 @@ The fourth project of [ML DevOps Engineer Nanodegree](https://www.udacity.com/co
             ```bash
             > python deployment.py
             ```
-         * Artifacts output: 
+         * Generated Artifacts: 
             ``` 
             models/production_deployment/ingestedfiles.txt
             models/production_deployment/trainedmodel.pkl
@@ -113,14 +113,14 @@ The fourth project of [ML DevOps Engineer Nanodegree](https://www.udacity.com/co
             ```bash
             > python diagnostics.py
             ```
-         * Artifacts output: None
+         * Generated Artifacts: None
 
     * Model Reporting:
         * script:  
             ```bash
             > python reporting.py
             ```
-         * Artifacts output: 
+         * Generated Artifacts: 
             ``` 
             models/practicemodels/confusionmatrix.png
             ```
@@ -129,14 +129,14 @@ The fourth project of [ML DevOps Engineer Nanodegree](https://www.udacity.com/co
             ```bash
             > python app.py
             ```
-         * Artifacts output: None
+         * Generated Artifacts: None
 
     * API Endpoints
         * script:  
             ```bash
             > python apicalls.py
             ```
-         * Artifacts output: 
+         * Generated Artifacts: 
             ``` 
             models/practicemodels/apireturns.txt
             ```
