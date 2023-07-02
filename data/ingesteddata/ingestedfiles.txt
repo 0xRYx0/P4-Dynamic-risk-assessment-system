@@ -1,0 +1,5 @@
+SUCCESS: Data Ingestion @ [09/06/2023 16:46:31]
+
+# Total ingested files: [2]
+data/sourcedata/dataset4.csv
+data/sourcedata/dataset3.csv
