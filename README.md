@@ -152,10 +152,9 @@ The fourth project of [ML DevOps Engineer Nanodegree](https://www.udacity.com/co
     ```
 
 4. Full process automation:
-    * script:  
-      ```bash
-      > python fullprocess.py
-      ```
+   ```bash
+   > python fullprocess.py
+   ```
 
 
 ### License
